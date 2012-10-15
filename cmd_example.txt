@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+
+http://www.songtaste.com/user/351979/allrec/
+recSongtasteMusic.py
+
+http://www.songtaste.com/user/1264020/allrec/
+recSongtasteMusic.py -u 1264020
+
+http://www.songtaste.com/user/3795618/allrec/
+recSongtasteMusic.py -u 3795618
+
+
+recSongtasteMusic.py -u 3795618 -t 20120801-20120901
+recSongtasteMusic.py -u 1264020 -t 20120801-20120901
+
+recSongtasteMusic.py -t 20120801-20120901
+
+recSongtasteMusic.py -t 20120801-20120901 -u 2113511
+recSongtasteMusic.py -t 20120901-20121001
+
+----------------------------------------------------------------------------------------------------
+
+
+
+
